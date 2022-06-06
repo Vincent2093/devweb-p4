@@ -825,6 +825,16 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
+.speech {
+    font-size: large;
+    font-style: italic;
+    margin: 2px;
+}
+
+.speech-pdg {
+    font: caption;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
